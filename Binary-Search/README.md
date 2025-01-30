@@ -1,1 +1,1 @@
-# Script-Binary-Search Will help you to solve this challenge!!!
+Script-Binary-Search Will help you to solve this challenge!!!

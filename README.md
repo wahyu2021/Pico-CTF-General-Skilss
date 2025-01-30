@@ -1,7 +1,5 @@
 # Pico-CTF-General-Skilss
 
----
-
 ![ScreenShoot](./image.png)
 
 ---
